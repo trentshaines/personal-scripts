@@ -6,7 +6,7 @@
 // @match        https://claude.ai/*
 // @grant        none
 // @author      Trent Haines
-// @updateURL   https://raw.githubusercontent.com/trentshaines/personal-scripts/
+// @updateURL   https://raw.githubusercontent.com/trentshaines/personal-scripts/claude-script.js
 // ==/UserScript==
 
 
