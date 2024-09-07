@@ -5,8 +5,9 @@
 // @description  Open Claude.ai new chat when pressing Command+K
 // @match        https://claude.ai/*
 // @grant        none
-// @author      Trent Haines
-// @updateURL   https://raw.githubusercontent.com/trentshaines/personal-scripts/claude-script.js
+// @author       Trent Haines
+// @updateURL    https://raw.githubusercontent.com/trentshaines/personal-scripts/claude-script.js
+// @downloadURL  https://raw.githubusercontent.com/trentshaines/personal-scripts/claude-script.js
 // ==/UserScript==
 
 
