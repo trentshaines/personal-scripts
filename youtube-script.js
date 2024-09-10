@@ -1,13 +1,13 @@
 // ==UserScript==
-// @name         YouTube Search Shortcut
+// @name         YouTube Shortcut
 // @namespace    Personal Scripts
 // @version      0.1
 // @description  Focus YouTube search bar when pressing Command+K or Ctrl+K
 // @match        https://www.youtube.com/*
 // @grant        none
 // @author       Trent Haines	
-// @updateURL    https://your-update-url.com/youtube-search-shortcut.js
-// @downloadURL  https://your-download-url.com/youtube-search-shortcut.js
+// @updateURL    https://raw.githubusercontent.com/trentshaines/personal-scripts/youtube-script.js
+// @downloadURL  https://raw.githubusercontent.com/trentshaines/personal-scripts/youtube-script.js
 // ==/UserScript==
 
 (function() {
